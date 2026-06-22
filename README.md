@@ -1,4 +1,4 @@
-# SPIKE Prime Sumo Bot — 4 Modes Pack
+# SPIKE Prime Sumo Bot — 4 New Modes + Original
 
 A pédago-first kit for a LEGO SPIKE Prime sumo-robot student.
 Build in blocks first; use the Python file only as a last-resort fallback.
@@ -7,6 +7,7 @@ Build in blocks first; use the Python file only as a last-resort fallback.
 
 | File | What |
 |---|---|
+| `START_HERE.pdf` | Short warm intro in English and Thai |
 | `SUMO_3_MODES_guide.md` | 🇫🇷 French guide — main teaching material |
 | `SUMO_3_MODES_guide_EN.md` | 🇬🇧 English version |
 | `SUMO_3_MODES_guide_TH.md` | 🇹🇭 Thai version |
